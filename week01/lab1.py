@@ -1,5 +1,5 @@
 # Sample Coding Questions 01 Week 01
-# Mateus de Souza Carvalho Melco Sfeir
+# Rahul Ahir
 array = [1, 4, 7, 9]
 a=1
 b=2
